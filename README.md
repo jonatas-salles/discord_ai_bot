@@ -1,8 +1,6 @@
 # Discord AI BOT
 
-```
 This project is a simple Discord bot that interacts with Groq's API to provide AI-based responses to user queries. The bot is configured to run as an AWS Lambda function, allowing for serverless operation. It listens to interactions from Discord, verifies the request signature, handles different types of commands (like echo and ask), and uses Groq to generate responses for the ask command.
-```
 
 ## Prerequisites
 ```
